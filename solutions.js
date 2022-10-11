@@ -1,5 +1,4 @@
 "use strict";
-
 /**
  * Write your solutions here.
  *
@@ -21,3 +20,6 @@
  * concat
  */
 
+function isTrue() {
+    return true;
+}
